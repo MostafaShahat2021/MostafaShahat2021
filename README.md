@@ -1,4 +1,4 @@
-![](img/1.png)
+<h1 align='center'>![](img/1.png)</h1>
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 <h3 align="center">full-stack web developer</h3>
 
