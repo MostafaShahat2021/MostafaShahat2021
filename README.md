@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./img/giphy.gif" alt="mostafashahat2021 baner" width="500" />
+  <img src="./img/giphy.gif" alt="mostafashahat2021 baner" width="250" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mostafa Shahat</h1>
