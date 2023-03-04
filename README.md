@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/MOSTAFA SHAHT.png" alt="mostafashahat2021 baner" />
+  <img src="./img/MOSTAFA SHAHT.png" alt="mostafashahat2021 baner" width="500" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mostafa Shahat</h1>
