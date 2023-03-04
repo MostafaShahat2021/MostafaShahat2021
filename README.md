@@ -46,7 +46,7 @@
 </p>
 
 
-  <img align="left" style="background-color: #333333; padding: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafashahat2021&show_icons=true&locale=en&layout=compact" alt="mostafashahat2021" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafashahat2021&show_icons=true&locale=en&layout=compact" alt="mostafashahat2021" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafashahat2021&show_icons=true&locale=en" alt="mostafashahat2021" /></p>
