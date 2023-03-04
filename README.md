@@ -2,9 +2,12 @@
   <img src="./img/MOSTAFA SHAHT.png" alt="mostafashahat2021 baner" width="500" />
 </p>
 
+<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Mostafa Shahat</h1>
 <h3 align="center">Full-Stack web developer from Egypt</h3>
 <h4 align="center">currently, I'm a full-time student at Microverse, an international school for intensive remote collaboration, and working with tight schedules with people from all around the world.</h4>
+<h4 align="center">I'm passionate about creating web solutions that make a real impact.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafashahat2021&label=Profile%20views&color=0e75b6&style=flat" alt="mostafashahat2021" /> </p>
 
