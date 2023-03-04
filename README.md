@@ -1,9 +1,16 @@
+<video width="320" height="240" controls>
+  <source src="/img/Black Minimalist Motivation Quote LinkedIn Banner.mp4" type="video/mp4">
+</video>
+
 <h1 align="center">Hi 👋, I'm Mostafa Shahat</h1>
-<h3 align="center">Full-Stack developer from Egypt</h3>
+<h3 align="center">Full-Stack web developer from Egypt</h3>
+<h4 align="center">currently, I'm a full-time student at Microverse, an international school for intensive remote collaboration, and working with tight schedules with people from all around the world.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafashahat2021&label=Profile%20views&color=0e75b6&style=flat" alt="mostafashahat2021" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, Ruby, Rails, React, Redux.**
+
+- 🔭 I’m currently developing **my skills as full stack web developer.**
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://mostafashahat2021.github.io/portfolio/)
 
