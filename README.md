@@ -46,7 +46,9 @@
 </p>
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaShahat2021&theme=algolia&show_icons=true)
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafashahat2021&show_icons=true&locale=en&layout=compact" alt="mostafashahat2021" /></p>
+
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaShahat2021&theme=merko&show_icons=true)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafashahat2021&show_icons=true&locale=en" alt="mostafashahat2021" /></p>
