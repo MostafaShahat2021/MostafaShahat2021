@@ -52,6 +52,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafashahat2021&" alt="mostafashahat2021" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MostafaShahat2021)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MostafaShahat2021&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
