@@ -1,4 +1,7 @@
-<P allign='center'> <img src='./img/MOSTAFA SHAHT.png' alt='mostafashahat2021 baner' /> </p>
+<p align="center">
+  <img src="./img/MOSTAFA SHAHT.png" alt="mostafashahat2021 baner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mostafa Shahat</h1>
 <h3 align="center">Full-Stack web developer from Egypt</h3>
 <h4 align="center">currently, I'm a full-time student at Microverse, an international school for intensive remote collaboration, and working with tight schedules with people from all around the world.</h4>
@@ -17,7 +20,7 @@
 
 - 📫 How to reach me **mostafa.shahat2014@gmail.com**
 
-- ⚡ Fun fact **love to listen to music when I'm coding you can listen to my play** [list](https://www.youtube.com/playlist?list=PLTrmBF5l5Vo_ndnqW--g0PJMohML6mjEI)
+- ⚡ Fun fact **love to listen to music when I'm coding you can listen to my play list** [here](https://www.youtube.com/playlist?list=PLTrmBF5l5Vo_ndnqW--g0PJMohML6mjEI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
