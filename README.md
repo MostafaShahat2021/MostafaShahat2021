@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mostafashahat2021.github.io/portfolio/](https://mostafashahat2021.github.io/portfolio/)
 
-- 📝 I regularly Read articles on [https://dev.to/](https://dev.to/)
+- 📝 I regularly Read articles on [https://dev.to/](https://dev.to/) & [https://medium.com/](medium.com)
 
 - 💬 Ask me about **HTML, CSS, javaScript**
 
