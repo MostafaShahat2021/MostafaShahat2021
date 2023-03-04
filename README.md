@@ -48,7 +48,7 @@
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafashahat2021&show_icons=true&locale=en&layout=compact" alt="mostafashahat2021" /></p>
 
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaShahat2021&theme=merko&show_icons=true)
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaShahat2021&theme=github_dark&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafashahat2021&" alt="mostafashahat2021" /></p>
 
