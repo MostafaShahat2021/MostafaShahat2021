@@ -1,7 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="./img/Black Minimalist Motivation Quote LinkedIn Banner.mp4" type="video/mp4">
-</video>
-
+<P allign='center'> <img src='./img/MOSTAFA SHAHT.png' alt='mostafashahat2021 baner' /> </p>
 <h1 align="center">Hi 👋, I'm Mostafa Shahat</h1>
 <h3 align="center">Full-Stack web developer from Egypt</h3>
 <h4 align="center">currently, I'm a full-time student at Microverse, an international school for intensive remote collaboration, and working with tight schedules with people from all around the world.</h4>
