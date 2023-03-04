@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **JavaScript, Ruby, Rails, React, Redux.**
 
-- 👨‍💻 All of my projects are available at [https://mostafashahat2021.github.io/portfolio/](https://mostafashahat2021.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://mostafashahat2021.github.io/portfolio/)
 
-- 📝 I regularly Read articles on [https://dev.to/](https://dev.to/) & [https://medium.com/](medium.com)
+- 📝 I regularly Read articles on [https://dev.to](https://dev.to/) & [medium.com](https://medium.com/)
 
 - 💬 Ask me about **HTML, CSS, javaScript**
 
 - 📫 How to reach me **mostafa.shahat2014@gmail.com**
 
-- ⚡ Fun fact **love to listen to music when I'm coding**
+- ⚡ Fun fact **love to listen to music when I'm coding you can [listen to my play list](https://www.youtube.com/playlist?list=PLTrmBF5l5Vo_ndnqW--g0PJMohML6mjEI) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
