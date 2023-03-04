@@ -1,5 +1,5 @@
 <video width="320" height="240" controls>
-  <source src="/img/Black Minimalist Motivation Quote LinkedIn Banner.mp4" type="video/mp4">
+  <source src="./img/Black Minimalist Motivation Quote LinkedIn Banner.mp4" type="video/mp4">
 </video>
 
 <h1 align="center">Hi 👋, I'm Mostafa Shahat</h1>
