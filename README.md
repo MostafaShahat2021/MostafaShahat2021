@@ -1,11 +1,6 @@
 <p align="center">
   <img src="./img/MOSTAFA SHAHT.png" alt="mostafashahat2021 baner" width="500" />
 </p>
-
-<p align="center">
-  <img src="./img/giphy.gif" alt="mostafashahat2021 baner" width="250" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mostafa Shahat</h1>
 <h3 align="center">Full-Stack web developer from Egypt</h3>
 <h4 align="center">currently, I'm a full-time student at Microverse, an international school for intensive remote collaboration, and working with tight schedules with people from all around the world.</h4>
@@ -32,6 +27,10 @@
 <a href="https://dev.to/@mostafashahat2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@mostafashahat2021" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-shahat-a75810208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-shahat-a75810208/" height="30" width="40" /></a>
 <a href="https://medium.com/@mostafa.shahat2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mostafa.shahat2014" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="./img/giphy.gif" alt="mostafashahat2021 baner" width="250" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
